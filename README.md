@@ -14,6 +14,15 @@ Currently it can reply to these commands:
 - today's date 
 - current time
 - how are you? 
+- search Google
 - and finally if we say "quit" or "exit", it will terminate.
 
-***Note: If you are using Ubuntu, then you may get some errors of the form "ALSA lib [...] Unknown PCM". To suppress those errors, see <a href="https://stackoverflow.com/questions/7088672/pyaudio-working-but-spits-out-error-messages-each-time" target="__blank">this Stackoverflow answer</a>.***
+## Requirements
+```
+pip install SpeechRecognition
+pip install PyAudio
+pip install pyttsx3
+```
+You should also use ```venv``` for better working.
+
+***Note: If you are using Ubuntu, then you may get some errors of the form "ALSA lib [...] Unknown PCM". To suppress those errors, see <a href="https://stackoverflow.com/questions/7088672/pyaudio-working-but-spits-out-error-messages-each-time" target="_blank">this Stackoverflow answer</a>.***
