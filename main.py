@@ -82,8 +82,8 @@ def reply(text_version):
       webbrowser.open(url)
       sleep(3)
   
-  # quit
-  if "quit" in text_version:
+  # quit/exit
+  if "quit" in text_version or "exit" in text_version:
     speak("Ok, I am going to take a nap...")
     exit()
 
