@@ -16,4 +16,4 @@ Currently it can reply to these commands:
 - how are you? 
 - and finally if we say "quit" or "exit", it will terminate.
 
-***Note: If you are using Ubuntu, then you may get some errors of the form "ALSA lib [...] Unknown PCM". To suppress those errors, see <a href="https://stackoverflow.com/questions/7088672/pyaudio-working-but-spits-out-error-messages-each-time" target="_blank">this Stackoverflow answer</a>.***
+***Note: If you are using Ubuntu, then you may get some errors of the form "ALSA lib [...] Unknown PCM". To suppress those errors, see <a href="https://stackoverflow.com/questions/7088672/pyaudio-working-but-spits-out-error-messages-each-time" target="__blank">this Stackoverflow answer</a>.***
