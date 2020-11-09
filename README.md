@@ -5,7 +5,7 @@ A simple python voice assistant inspired by J.A.R.V.I.S. For tutorial on how to 
 
 
 ## Technologies Used
-It uses SpeechRecognition and PyAudio modules to recognize speech through Microphone. Then for converting speech to text, it uses gTTS. pyttsx3 for generating computer voice.
+It uses SpeechRecognition and PyAudio modules to recognize speech through Microphone. Then for converting text to speech, it uses pyttsx3.
 
 ## What it can do?
 Currently it can reply to these commands:
