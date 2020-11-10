@@ -33,7 +33,7 @@ Currently it can reply to these commands:
       ```venv\Scripts\activate.bat```
 - Then from within the root folder run:
 
-  ```pip install requirements.txt```
+  ```pip install -r requirements.txt```
 
 - That's it now run the program using:
 
