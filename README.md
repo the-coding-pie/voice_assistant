@@ -41,8 +41,9 @@ Currently it can reply to these commands:
 
 ## Requirements
 
-The following are the required modules and I had put them inside the "requirements.txt" file:
+- You should definetely need Python3.3+
 
+The following are the required modules and I had put them inside the "requirements.txt" file:
 
 ```
 pip install SpeechRecognition
