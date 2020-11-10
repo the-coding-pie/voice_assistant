@@ -37,7 +37,7 @@ Currently it can reply to these commands:
 
 - That's it now run the program using:
 
-  ```python3 main.py```
+  ```python main.py```
 
 ## Requirements
 
