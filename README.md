@@ -21,13 +21,26 @@ Currently it can reply to these commands:
 
 - First download the repository and unzip it.
 - Then make a virtual environment using **venv** inside the root folder:
+
 ```python3 -m venv venv```
 
-- Then activate the virtual environment:
-    - (the following command to actiavte venv is for Linux):
+- Then activate the virtual environment. The command for that may vary depending on your os:
+    - If your are on Mac/Linux):
       ```source venv/bin/activate```
     - If you are on windows:
       ```venv\Scripts\activate.bat```
+- Then from within the root folder run:
+
+```pip install requirements.txt```
+
+- That's it now run the program using:
+
+```python3 main.py```
+
+## Requirements
+
+The following are the required modules and I had put them inside the "requirements.txt" file:
+
 
 ```
 pip install SpeechRecognition
