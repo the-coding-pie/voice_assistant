@@ -17,7 +17,18 @@ Currently it can reply to these commands:
 - search Google
 - and finally if we say "quit" or "exit", it will terminate.
 
-## Requirements
+## How to use it?
+
+- First download the repository and unzip it.
+- Then make a virtual environment using **venv** inside the root folder:
+```python3 -m venv venv```
+
+- Then activate the virtual environment:
+    - (the following command to actiavte venv is for Linux):
+      ```source venv/bin/activate```
+    - If you are on windows:
+      ```venv\Scripts\activate.bat```
+
 ```
 pip install SpeechRecognition
 pip install PyAudio
